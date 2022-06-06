@@ -23,7 +23,7 @@ Messages (.msg)
 Examples
 ********
 
-.. image:: images/soccer_vision_2d_msgs_visualized.png
+.. image:: images/ball_goalpost_robot_visualized.png
   :align: center
 
 .. image:: images/obstacle_fieldboundary_markings_visualized.png
